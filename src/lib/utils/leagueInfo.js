@@ -3,7 +3,7 @@ export const leagueID = "1135980268181041152"; // your league ID
 export const leagueName = "Mush City FF"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
-export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
+export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
@@ -13,9 +13,9 @@ export const homepageText = `
 
   <p> Fortunately, we'd decided to play each other in fantasy so someone _has to_ win. May the chirps be over the line, the trades be lopsided and the best man win the trophy </p>
 
-  <p> The regining Champion - BigtimeTimmajim </p>
+  <p> The regining Champion - <b> BigtimeTimmajim </b> </p>
 
-  <p> The biggest loser (not to do his punishment) - Team Pisano </p>
+  <p> The biggest loser (<i> not to do his punishment</i>) - Team Pisano </p>
 `;
 
 /*   STEP 3   */
