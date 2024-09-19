@@ -11,11 +11,11 @@ export const homepageText = `
 
   <p> This is the home of the longest Everybody Ride (EBR) winless streak on planet earth. These are common guys who are just doing uncommon things with their bets. Sometimes maybe win, most times probably lose so its best to fade our picks </p>
 
-  <p> Fortunately, we'd decided to play each other in fantasy so someone _has to_ win. May the chirps be over the line, the trades be lopsided and the best man win the trophy <p>
+  <p> Fortunately, we'd decided to play each other in fantasy so someone _has to_ win. May the chirps be over the line, the trades be lopsided and the best man win the trophy </p>
 
-  <p> The regining Champion - <b> BigtimeTimmajim <b> </p>
+  <p> The regining Champion - BigtimeTimmajim </p>
 
-  <p> The biggest loser (<i>not to do his punishment<i>) - <b>Team Pisano<b> </p>
+  <p> The biggest loser (not to do his punishment) - Team Pisano </p>
 `;
 
 /*   STEP 3   */
