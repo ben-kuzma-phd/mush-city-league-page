@@ -13,7 +13,7 @@ export const homepageText = `
 
   <p> Fortunately, we'd decided to play each other in fantasy so someone _has to_ win. May the chirps be over the line, the trades be lopsided and the best man win the trophy <p>
 
-  <p> The regining Champion - <b> BigtimeTimmajim<b> </p>
+  <p> The regining Champion - <b> BigtimeTimmajim <b> </p>
 
   <p> The biggest loser (<i>not to do his punishment<i>) - <b>Team Pisano<b> </p>
 `;
